@@ -1,3 +1,6 @@
+.idea
+.vagrant
+
 # Logs
 logs
 *.log
