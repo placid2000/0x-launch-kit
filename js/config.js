@@ -12,7 +12,7 @@ exports.MAX_PER_PAGE = 1000;
 // Default network id to use when not specified
 exports.NETWORK_ID = 42;
 // An array of fee recipients
-exports.FEE_RECIPIENT = '0x0000000000000000000000000000000000000000';
+exports.FEE_RECIPIENT = '0xd199e5f83bec2ccc2527fbb29ee0e8d45244d37e';
 // A flat fee in ZRX that should be charged to the order maker
 exports.MAKER_FEE_ZRX_UNIT_AMOUNT = new _0x_js_1.BigNumber(0);
 // A flat fee in ZRX that should be charged to the order taker
